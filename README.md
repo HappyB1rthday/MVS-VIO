@@ -3,6 +3,7 @@ We propose MVS-VIO, a dense monocular VIO system that can perform global-scale-c
 pose estimation and reconstruct global TSDF map in real-time. Our MVS-VIO achieves 
 state-of-art performance in all real-world sequences of EuRoC.
 
+
 An available video demo of our MVS-VIO is: https://www.youtube.com/watch?v=yRKlclXRUXk or https://www.bilibili.com/video/BV1eg4y1u7dL
 
 We wrote the core MVS-VIO code in C++ and trained LW-MVSNET using Pytorch, which relies on a more complex environment configuration to run. 
